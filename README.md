@@ -1,0 +1,15 @@
+# 🎤 Text-To-Speech Converter
+
+A sleek and simple **Text-To-Speech Converter** built with **JavaScript**, **HTML**, and **CSS**. Convert your text into speech instantly!
+
+## ✨ Features
+- 🎙️ Converts text to speech in one click.
+- 🌈 Stylish, responsive design.
+- ⚙️ Easy-to-use interface.
+
+## 🛠️ Tech Stack
+- **HTML**: For structure.
+- **CSS**: For design and styling.
+- **JavaScript**: For speech synthesis functionality.
+
+## 🚀 Thank you and happy coding!
